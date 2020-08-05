@@ -30,21 +30,6 @@ Number	Character Name	What can this character do?
 
 
 
-
-
-
-
-
-
-Draw your imagination of this game. What does this game look like?
- 
- 
- 
-
-
-
-
-
 How do you plan to make your game engaging? 
 Ans: It is going to be an adaptive game, like I mentioned above. As the score increases, the player goes faster and it is also going to be a bit competitiveness as the player can see his/her friend racing towards the vaccine too.
 
